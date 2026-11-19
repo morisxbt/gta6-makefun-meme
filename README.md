@@ -1,9 +1,10 @@
 # GTA 6 Launch Day: Sick Call
 
-[![make.fun bounty: gta6-meme-x-01](https://img.shields.io/badge/make.fun-bounty%20gta6--meme--x--01-ff4fc8)](https://make.fun/bounty/gta6-meme-x-01)
-[![License: MIT](https://img.shields.io/badge/license-MIT-24c8b7.svg)](LICENSE)
-![Node 22](https://img.shields.io/badge/Node-22-43853d?logo=node.js&logoColor=white)
-![Made with Codex](https://img.shields.io/badge/made%20with-Codex-111111)
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/morisxbt/gta6-makefun-meme/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/morisxbt/gta6-makefun-meme/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
+
 
 ![GTA 6 launch day: I called in sick; my AI agent clocked in at make.fun](meme.png)
 
